@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔬 rag-autopsy
+# 🔬 RAG Autopsy
 
 ### Cut open broken RAG pipelines. Find what killed them. Fix it before you ship.
 
