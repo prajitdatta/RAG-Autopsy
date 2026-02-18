@@ -307,7 +307,7 @@ Each new autopsy must:
 
 **Prajit Datta** — AI Research Scientist, AFRY | [prajitdatta.com](https://prajitdatta.com)
 
-Built from 2+ years of debugging production RAG pipelines in enterprise deployments across manufacturing, energy, and financial services.
+Built from years of debugging production RAG pipelines in enterprise deployments.
 
 ---
 
